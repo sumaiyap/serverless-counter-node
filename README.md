@@ -15,6 +15,6 @@ This program is a part of upgrad assignment which will take the input string fro
 * run node client.js
 * copy ec2 instance public ip
 * in browser run
-```http://<ec2-public-ip>:3000
+```http://<ec2-public-ip>:3000```
 
 
